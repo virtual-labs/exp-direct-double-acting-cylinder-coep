@@ -1,6 +1,6 @@
 configDoubleActingCylinder = function(){
 	
-//	goForAnimation_Direct_SAC();
+//	goForAnimation_Direct_DAC();
 //	goForAnimation_Indirect_DAC();
 //	connectionLevel();
 	
